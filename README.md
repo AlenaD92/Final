@@ -1,4 +1,4 @@
-# Project_36.1.1
+# Project_36
 
 Необходимо написать 20-30 автоматизированных тестов с использованием Java, JUnit и Selenium.
 Тестируемый сайт https://skillfactory.ru/
